@@ -1,0 +1,1 @@
+console.log("App1 javascript file into the subfolder");
