@@ -19,9 +19,11 @@
 #the type :wq to commit 
 
 #To commit we can do this way 
-# git commit -m 'message for the git '
+# git commit -m "message for the git"
 #we can have .gitignore file  in this file we simply name those file and folder(/folder) which we don't want to commit
 # and *.txt file it will ignore all files whose extension is txt
 
 #we can also create the branch
-#git branch mybranch 
+#git branch login 
+#To Change the branch 
+# git checkout nameofthebranch
