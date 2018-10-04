@@ -27,3 +27,6 @@
 #git branch login 
 #To Change the branch 
 # git checkout nameofthebranch
+#To merge with branch i mean into the master branch first we need to checkout master branch
+#git checkout master  ..... then merge
+#git merge nameofbranch
