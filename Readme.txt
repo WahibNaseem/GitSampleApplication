@@ -17,3 +17,6 @@
 #give the commit name 
 #press esc key to come out from intsert mode
 #the type :wq to commit 
+
+#To commit we can do this way 
+# git commit -m 'message for the git '
