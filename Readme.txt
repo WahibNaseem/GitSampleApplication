@@ -1,13 +1,19 @@
-Create Git Repository
+#Create Git Repository
 #git init
-Add Name and email into git
+#Add Name and email into git
 #git config --global user.name 'Wahib Naseem'
-3git confit --global user.email 'wahib1900@gmail.com'
-To check the status
+#git config --global user.email 'wahib1900@gmail.com'
+#To check the status
 #git status
-To unstage the file 
+#To unstage the file 
 #git rm --cached filename
-To add the specific files whose extentsion are same
+#To add the specific files whose extentsion are same
 #git add *.html   --> it will add .html files 
-To  add all the files
+#To  add all the files
 #git add .
+#To commit there are various ways
+#git commit , 
+#press (i) for insert
+#give the commit name 
+#press esc key to come out from intsert mode
+#the type :wq to commit 
